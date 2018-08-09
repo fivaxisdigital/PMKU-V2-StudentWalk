@@ -1,0 +1,89 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-sarriaroman-photoviewer": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-facebook4": {
+      "APP_ID": "193950848129470",
+      "APP_NAME": "Social Application",
+      "ANDROID_SDK_VERSION": "4.+",
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-google-analytics": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-googleplus": {
+      "REVERSED_CLIENT_ID": "com.googleusercontent.apps.486944611348-3rbd6auc17q051vg5du75hhlta5brhos",
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-ionic": {
+      "APP_ID": "74342c4f",
+      "CHANNEL_NAME": "Master",
+      "WARN_DEBUG": "true",
+      "UPDATE_API": "https://api.ionicjs.com",
+      "UPDATE_METHOD": "background",
+      "MAX_STORE": "2",
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-request-location-accuracy": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.taydotech.modernshop"
+    }
+  }
+}
